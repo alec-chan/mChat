@@ -15,7 +15,7 @@ The Server project is a simple central proxy server that all clients connect to.
 
 `exit` - Stops server and terminates the process
 
-When a client sends a message, the message goes to the server and then is broadcast back to all connected clients from the server.  Sadly, the NetworkComm library used in this project only supports broadcasting to all clients, so that will probably have to be changed in the future.
+When a client sends a message, the message goes to the server and then is broadcast back to all connected clients from the server.  Unfortunately, the NetworkComm library used in this project only supports broadcasting to all clients connected to the server, so that will have to be changed in the future to allow for private chats between a select group of clients on the server.
 
 [![server](http://i.imgur.com/39elTJZ.png)]()
 
