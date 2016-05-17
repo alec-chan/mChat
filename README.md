@@ -1,4 +1,4 @@
-[![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000?style=plastic)]()
+[![npm](https://img.shields.io/npm/l/express.svg?maxAge=2592000?style=plastic)]() [![Build Status](https://travis-ci.org/alec-chan/mChat.svg?branch=master)](https://travis-ci.org/alec-chan/mChat)
 # mChat
 A proxy server based chat application using NetComms library for networking and WPF as a front-end.
 
