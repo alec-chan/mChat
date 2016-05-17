@@ -7,3 +7,11 @@ C:\Users\Alec\Desktop\ChatServer\Server\obj\x86\Debug\Server.csproj.GenerateReso
 C:\Users\Alec\Desktop\ChatServer\Server\obj\x86\Debug\Server.exe
 C:\Users\Alec\Desktop\ChatServer\Server\obj\x86\Debug\Server.pdb
 C:\Users\Alec\Desktop\ChatServer\Server\bin\Debug\NetComm.dll
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\mChat\Server\bin\Debug\Server.exe.config
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\mChat\Server\bin\Debug\Server.exe
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\mChat\Server\bin\Debug\Server.pdb
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\mChat\Server\obj\x86\Debug\Server.csprojResolveAssemblyReference.cache
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\mChat\Server\obj\x86\Debug\Server.Properties.Resources.resources
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\mChat\Server\obj\x86\Debug\Server.csproj.GenerateResource.Cache
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\mChat\Server\obj\x86\Debug\Server.exe
+C:\Users\Alec\Documents\Visual Studio 2015\Projects\mChat\Server\obj\x86\Debug\Server.pdb

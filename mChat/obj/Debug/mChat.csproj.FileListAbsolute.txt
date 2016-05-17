@@ -13,10 +13,6 @@ c:\users\alec\documents\visual studio 2015\Projects\mChat\mChat\obj\Debug\mChat.
 c:\users\alec\documents\visual studio 2015\Projects\mChat\mChat\obj\Debug\mChat.csproj.GenerateResource.Cache
 c:\users\alec\documents\visual studio 2015\Projects\mChat\mChat\obj\Debug\mChat.exe
 c:\users\alec\documents\visual studio 2015\Projects\mChat\mChat\obj\Debug\mChat.pdb
-c:\users\alec\documents\visual studio 2015\Projects\mChat\mChat\bin\Debug\Dragablz.dll
-c:\users\alec\documents\visual studio 2015\Projects\mChat\mChat\bin\Debug\Dragablz.pdb
-c:\users\alec\documents\visual studio 2015\Projects\mChat\mChat\bin\Debug\Dragablz.xml
 c:\users\alec\documents\visual studio 2015\Projects\mChat\mChat\obj\Debug\mChat_MarkupCompile.lref
 C:\Users\Alec\documents\visual studio 2015\Projects\mChat\mChat\bin\Debug\NetComm.dll
-C:\Users\Alec\documents\visual studio 2015\Projects\mChat\mChat\bin\Debug\ServerWcfService.dll
 C:\Users\Alec\documents\visual studio 2015\Projects\mChat\mChat\obj\Debug\mChat.csprojResolveAssemblyReference.cache

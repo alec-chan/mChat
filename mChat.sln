@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mChat", "mChat\mChat.csproj", "{05E51BA5-8B93-4EC1-8173-E0F02B7894FA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "..\..\..\..\Desktop\ChatServer\Server\Server.csproj", "{1FD08AC5-F5DC-4A9D-9883-FD55AE14B526}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Server", "Server\Server.csproj", "{1FD08AC5-F5DC-4A9D-9883-FD55AE14B526}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
